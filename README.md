@@ -15,13 +15,7 @@ Interpretation – do these factors make sense?
 Prevention strategy – business recommendations for companies
 Monitoring – how to evaluate if actions are working
 
-⚙️ Installation
 
-Clone the repository and install dependencies:
-
-git clone https://github.com/your-username/fraud-detection-lightgbm.git
-cd fraud-detection-lightgbm
-pip install -r requirements.txt
 
 
 Dependencies include:
